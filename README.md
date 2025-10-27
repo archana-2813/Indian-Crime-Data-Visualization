@@ -6,7 +6,7 @@ A Tableau-based data visualization project analyzing crime trends across Indian 
 This project focuses on analyzing and visualizing **crime trends across multiple Indian cities** using the *Indian Crimes Dataset (Kaggle)*.  
 The work was completed in three phases — **Planning**, **Decision Making**, and **Dashboard Implementation** — culminating in an interactive Tableau dashboard for law enforcement, crime analysts, and policymakers.
 
-**Dashboard Link:**  
+Dashboard Link:
 🔗 [India Crime Data Analysis on Tableau Public](https://public.tableau.com/app/profile/venkata.naga.sai.chakradhar.kollipara/viz/IndianCrimeDataAnalysisfinalprojectdashboard/IndiaCrimeDataAnalysis?publish=yes)
 
 
@@ -43,7 +43,7 @@ The work was completed in three phases — **Planning**, **Decision Making**, an
   - Temporal trends across days and months  
 - Enhanced interactivity through parameter controls and custom tooltips.
 
-##Key Insights
+Key Insights
 - Identified high-crime areas and times of day with peak incidents.  
 - Discovered correlations between police deployment and crime reduction.  
 - Highlighted weapon usage patterns and victim demographics.  
