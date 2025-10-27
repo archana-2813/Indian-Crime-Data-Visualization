@@ -50,7 +50,7 @@ Key Insights
 - Provided actionable data-driven insights for safety policy and planning.
 
 
-## Tools Used
+## Tools Used:
 - **Tableau** – Dashboard and visualization  
 - **Excel / Python (Pandas)** – Data cleaning and preprocessing  
 - **Kaggle Dataset** – Source for raw crime data  
